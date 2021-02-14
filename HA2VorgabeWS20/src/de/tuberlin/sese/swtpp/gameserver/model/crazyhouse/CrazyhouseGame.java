@@ -262,7 +262,7 @@ public class CrazyhouseGame extends Game implements Serializable {
 			System.out.println(urspungZiel[0] + ", " + urspungZiel[1]);
 			System.out.println(urspungZiel[2] + ", " + urspungZiel[3]);
 		} else {
-//comment
+
 			urspungZiel = new char[3];
 
 			urspungZiel[0] = tempArr[0].charAt(0);
